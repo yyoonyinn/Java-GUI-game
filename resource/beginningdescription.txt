@@ -1,0 +1,6 @@
+Santa -> My name is Santa Claus. I have to give presents to children in this town on the night of Christmas Eve.
+
+Grinch -> My name is Grinch. I hate the noise of Christmas. So, I will do every way to steal Christmas.
+
+Narrate -> Before the early morning hours of 25th December, Santa has to arrive in the town for giving gifts so that Christmas has happened in this town.
+But if Grinch has arrived before Santa, Christmas would not happen.
